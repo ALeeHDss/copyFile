@@ -2,6 +2,7 @@
 
 Actualmente aprendiendo
 
+```Lua
 Alejandro = {
     lenguaje = "Lua",
     temasDeInteres = {"Tecnología", "Programación", "Ciencia"},
